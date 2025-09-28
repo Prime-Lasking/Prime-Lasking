@@ -5,4 +5,5 @@ Projects:
 - NeoAnki: A terminal based Anki clone
 - Okfish: A lichess bot that is Ok.. at chess.
 - A: My favourite projectyet, a programming language written in python which is very simple but is blazingly fast due to its compilation to machine code  through c and gcc.
+  
 [![Prime-Lasking's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prime-Lasking)](https://github.com/anuraghazra/github-readme-stats)
