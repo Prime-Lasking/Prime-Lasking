@@ -10,7 +10,7 @@
 
 
 ## Here Are Some Projects 🏗
-*  [**Euler o1**](https://github.com/Prime-Lasking/Eulero1) $\textsf{\color{orange} (no longer in development)}$
+*  [**Euler o1**](https://github.com/Prime-Lasking/Euler-o1) $\textsf{\color{orange} (no longer in development)}$
   * A mathematical chatbot without the need for huge llms and datacenters.
 *  [**Z**](https://github.com/Prime-Lasking/Z) 
   * My favourite project yet, a programming language written in python which is very simple but is blazingly fast due to its compilation to machine code through gcc.
