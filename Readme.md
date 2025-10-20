@@ -20,7 +20,3 @@
   * A CLI-based todo application made for privacy where all of your todo lists are on your device.
 *  [**NeoAnki**](https://github.com/Prime-Lasking/NeoAnki) $\textsf{\color{green} (currently not in development due to the no mainanters)}$
   * A terminal based Anki clone for the terminal based developers
-*  [**Okfish**](https://github.com/Prime-Lasking/Okfish) $\textsf{\color{orange} (no longer in development)}$
-  * A lichess bot that is Ok.. at chess.
-*  [**Pylang**](https://github.com/Prime-Lasking/Pylang) $\textsf{\color{green} (currently not in development due to the no mainanters)}$
-  * A combination of python speed and golang syntax: the 3rd worst language ever made
