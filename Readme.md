@@ -11,4 +11,6 @@
 
 ## Here Are Some Projects 🏗
 *  [**Zlang**](https://github.com/Prime-Lasking/Z) 
-  * a programming language written in python which is very simple but is blazingly fast due to its compilation to machine code through gcc.
+  * A programming language written in python which is very simple but is blazingly fast due to its compilation to machine code.
+*  [**Aptus 8**](https://github.com/Prime-Lasking/Aptus-8) 
+  * A c written cpu emulator which have a assembly language called xaptus.
