@@ -2,7 +2,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prime-Lasking&theme=github_dark&show=None&show_icons=true" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-angs/?username=Prime-Lasking&theme=github_dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prime-Lasking&theme=github_dark&layout=compact" />
 </a>
 
 <br/>
