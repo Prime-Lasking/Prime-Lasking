@@ -13,4 +13,4 @@
 *  [**Zlang**](https://github.com/Prime-Lasking/Z) 
   * A programming language written in python which is very simple but is blazingly fast due to its compilation to machine code.
 *  [**Aptus 8**](https://github.com/Prime-Lasking/Aptus-8) 
-  * A CPU emulator written in C, with a assembly language.
+  * A CPU emulator written in C, with an assembly language.
