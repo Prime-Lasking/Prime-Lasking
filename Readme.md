@@ -14,5 +14,3 @@
   * A programming language written in python which is very simple but is blazingly fast due to its compilation to machine code.
 *  [**Aptus 8**](https://github.com/Prime-Lasking/Aptus-8) 
   * A CPU emulator written in golang, with an assembly language.
-*  [**NallixOS**](https://github.com/Prime-Lasking/NallixOS) 
-  * An In-memory Unix-like OS written in golang
